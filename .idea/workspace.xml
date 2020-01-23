@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a119c12-ef6d-4aeb-842e-8e5017a6961c" name="Default Changelist" comment="" />
+    <list default="true" id="6a119c12-ef6d-4aeb-842e-8e5017a6961c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WbsZ3HXPidByWpbKa290RHdsSw" />
@@ -51,6 +60,7 @@
       <updated>1579429680927</updated>
       <workItem from="1579429685491" duration="15000" />
       <workItem from="1579429702809" duration="579000" />
+      <workItem from="1579783405993" duration="1755000" />
     </task>
     <servers />
   </component>
@@ -58,6 +68,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="321" y="0" width="923" height="728" key="CommitChangelistDialog2" timestamp="1579785337584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" width="923" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579785337584" />
     <state x="680" y="281" key="FileChooserDialogImpl" timestamp="1579429699361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
