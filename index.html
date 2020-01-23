@@ -5,16 +5,21 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css" type="text/css">
     <title>Happy New Year</title>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 </head>
 <body onclick='playMusic()' onblur="pauseMusic()">
-<div id="canvas" ></div>
-<audio id="background-music" >
+
+<div id="canvas">
+    <div id="text">Happy New Year 2020</div>
+
+    <div id="footer">Bản quyền thuộc về <a href="https://www.facebook.com/damdz98">Đàm Nguyễn</a></div>
+</div>
+<audio id="background-music">
     <source src="Fireworks.ogg" type="audio/ogg">
-<!--    <source src="Fireworks.mp3" type="audio/mpeg" >-->
+    <!--    <source src="Fireworks.mp3" type="audio/mpeg" >-->
 </audio>
+
 <script src="script.js"></script>
 <script type="text/javascript">
     let backgroundMusic = document.getElementById("background-music");
