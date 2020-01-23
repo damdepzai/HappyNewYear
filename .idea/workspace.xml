@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a119c12-ef6d-4aeb-842e-8e5017a6961c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,21 +59,39 @@
       <updated>1579429680927</updated>
       <workItem from="1579429685491" duration="15000" />
       <workItem from="1579429702809" duration="579000" />
-      <workItem from="1579783405993" duration="1755000" />
+      <workItem from="1579783405993" duration="2202000" />
     </task>
+    <task id="LOCAL-00001" summary="update text Happy New Year version 1.2">
+      <created>1579785374434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579785374434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update text Happy New Year version 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="update text Happy New Year version 1.2" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="0" width="923" height="728" key="CommitChangelistDialog2" timestamp="1579785337584">
+    <state x="321" y="0" width="923" height="728" key="CommitChangelistDialog2" timestamp="1579785373126">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" width="923" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579785337584" />
+    <state x="321" y="0" width="923" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579785373126" />
     <state x="680" y="281" key="FileChooserDialogImpl" timestamp="1579429699361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="680" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579429699361" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1579785468925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579785468925" />
   </component>
 </project>
